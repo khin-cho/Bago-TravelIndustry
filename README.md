@@ -66,6 +66,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 Project setup
-1. git clone
-2. XAMPP Database Name build 
-3. Project 
+1.Git clone 
+2.XAMPP phpmyadmin မှာ  database အသစ်ဆောက်ပြီးရင် projectထဲက database ယူပြီး copyချရပါမယ်
+3.ဆောက်ထားတဲ့ project folderရဲ့ command prompt မှာ ပထမဆုံးအနေနဲ့ composer installလုပ်ရပါမယ်
+4.command prompt မှာပဲ php artisan serve ဆိုp run လို့ရတဲ့ localhostကို copyယူp chromeမှာ ဖွင့်ရပါမယ်
+5.run နေစဉ်မှာ phpmyadmin ဖွင့်ထားရပါမယ်
